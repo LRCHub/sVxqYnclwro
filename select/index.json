@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "夜の東側",
+  "base_artist": "サカナクション",
+  "createdAt": "2025-12-25T02:23:29.317382Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "夜の東側",
+      "artist": "サカナクション",
+      "has_synced": true,
+      "path": "select/01_夜の東側_サカナクション.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "夜の東側",
+      "artist": "サカナクション",
+      "has_synced": true,
+      "path": "select/02_夜の東側_サカナクション.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Yoru no Higashigawa [夜の東側]",
+      "artist": "sakanaction",
+      "has_synced": true,
+      "path": "select/03_Yoru_no_Higashigawa_[夜の東側]_sakanaction.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夜の東側",
+      "artist": "サカナクション",
+      "has_synced": false,
+      "path": "select/pl_01_夜の東側_サカナクション.txt"
+    }
+  ]
+}
